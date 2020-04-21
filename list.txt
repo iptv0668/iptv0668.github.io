@@ -1,2 +1,2 @@
 广东频道,#genre#
-珠江台,http://s5117133.m.awhost.cn/dl/gd.php?id=zjpd#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#p8p://0198.02686.cc:16871/5d1a69cc0002c11611be3ab59efd0c09.ts
+珠江台,http://s5117133.m.awhost.cn/dl/gd.php?id=zjpd#http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://iptv.qwl2020.xyz/2020/gdtv.php?id=CHTVB26#http://1965.qwl1965.top/1220/gd.php?id=zjpd#http://iptv.inewya.com/QQ:494937337/guangdong/gdws.php?id=172#p8p://0198.02686.cc:16871/5d1a69cc0002c11611be3ab59efd0c09.ts
