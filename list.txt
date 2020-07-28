@@ -24,6 +24,8 @@
 新会综合,http://tkhz.vip/gd234.php?id=xinhui_1500
 佛山综合,http://tkhz.vip/gd234.php?id=foshannews_1500
 佛山公共,http://tkhz.vip/gd234.php?id=foshanyingshi_1500
+茂名综合,http://125.88.17.7:800/hls-live/livepkgr/_definst_/mmzh/mmzh.m3u8
+茂名公共台,http://125.88.17.7:800/hls-live/livepkgr/_definst_/mmgg/mmgg.m3u8
 湛江综合,http://tkhz.vip/gd234.php?id=zhanjiangzonghe_1500
 湛江公共,http://tkhz.vip/gd234.php?id=zhanjianggongong_1500
 韶关综合,http://tkhz.vip/gd234.php?id=shaoguanzonghe_1500
